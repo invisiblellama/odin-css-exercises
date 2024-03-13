@@ -1,0 +1,16 @@
+#number2 {color: #0000ff;font-size:36px;}
+#number4 {background-color:#39e75f;font-size:24px;font-weight:bold;}
+.odd {background-color:#ff9a98;font-family: Verdana, "DejaVu Sans", sans-serif;}
+.number3 {font-size:24px;}
+
+/* not the way I would have done this, but this meets the solution criteria */
+
+/* I would have done... */
+
+/* #number2 {color: #0000ff;font-size:36px;}
+#number4 {background-color:#39e75f;font-size:24px;font-weight:bold;}
+p {background-color:#ff9a98;font-family: Verdana, "DejaVu Sans", sans-serif;}
+.number3 {font-size:24px;} */
+
+/* or this */
+/* p:nth-child(odd){background-color:#ff9a98;font-family: Verdana, "DejaVu Sans", sans-serif;} */
